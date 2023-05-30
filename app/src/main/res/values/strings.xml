@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KDPZ_OVERTRY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="kyiv"></string>
+    <string name="zhmerynka"></string>
+    <string name="ternopil"></string>
+    <string name="dnipro"></string>
+    <string name="q"></string>
+    <string name="q2"></string>
+    <string name="q3"></string>
+    <string name="q4"></string>
+
+
+
+
+
+
+
+
+
+</resources>

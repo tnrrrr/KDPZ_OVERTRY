@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2640625" />
+        <entry key="app/src/main/res/layout/city_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/city_item_bad.xml" value="0.2640625" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_main.xml1.xsd" value="0.2640625" />
+        <entry key="app/src/main/res/layout/fragment_main.xsd" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/weather_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
